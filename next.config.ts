@@ -1,13 +1,13 @@
 import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
-/*  experimental: {
+  experimental: {
     serverActions: {
       allowedOrigins: [
-        'cold-graveyard-97jxv77w6xgqf7x4q-443.app.github.dev','*.cold-graveyard-97jxv77w6xgqf7x4q-443.app.github.dev','localhost:3000'
+        'broken-bat-r4px944w7vwvc59q7-3000.app.github.dev','*.broken-bat-r4px944w7vwvc59q7-3000.app.github.dev','localhost:3000'
       ]
     }
-  }*/  
+  }  
 };
 
 export default nextConfig;
